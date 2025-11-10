@@ -59,4 +59,4 @@
 
 ## 📫 如何联系我？  
 - 邮箱：**xichen888.private@gmail.com**  
-- https://xichen8.top (域名有效期至：2026.11.01)
+- 个人网站：**https://xichen8.top** (域名有效期至：2026.11.01)
