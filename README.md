@@ -132,7 +132,7 @@
     </div>
     <div>
       <a href="https://unity.com/" target="_blank">
-        <img src="https://unity.com/favicon.ico" height="50" alt="Unity Engine"/>
+        <img src="/assert/Unity.svg" height="50" alt="Unity Engine"/>
       </a>
     </div>
   </td>
