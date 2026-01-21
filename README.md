@@ -14,46 +14,128 @@
 
 ## 技术栈
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### Fronted
-<div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
+<tr>
+  <th>Frontend</th>
+  <th>Backend</th>
+  <th>DevOps</th>
+  <th>Game Dev</th>
+</tr>
+<tr>
+  <!-- Frontend -->
+  <td align="center" valign="top">
+    <div>
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" alt="Vue.js"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
+      </a>
+    </div>
+  </td>
 
-</td>
-<td valign="top" width="33%">
-    
-### Backend
-<div align="center">  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-</div>
+  <!-- Backend -->
+  <td align="center" valign="top">
+    <div>
+      <a href="https://spring.io/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" alt="Spring Framework"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="50" alt="Flask"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C Language"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" alt="C++"/>
+      </a>
+    </div>
+  </td>
 
-</td>
-<td valign="top" width="33%">
-    
-### Dev Ops
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+  <!-- DevOps -->
+  <td align="center" valign="top">
+    <div>
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" alt="Redis"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>
+      </a>
+    </div>
+  </td>
 
-</td>
+  <!-- Game Dev -->
+  <td align="center" valign="top">
+    <div>
+      <a href="https://godotengine.org/zh-cn/" target="_blank">
+        <img src="https://godotengine.org/assets/favicon.svg" height="50" alt="Godot Engine"/>
+      </a>
+    </div>
+    <div>
+      <a href="https://unity.com/" target="_blank">
+        <img src="https://unity.com/favicon.ico" height="50" alt="Unity Engine"/>
+      </a>
+    </div>
+  </td>
 </tr>
 </table>
 
