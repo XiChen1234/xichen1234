@@ -132,7 +132,7 @@
     </div>
     <div>
       <a href="https://unity.com/" target="_blank">
-        <img src="/assert/Unity.svg" height="50" alt="Unity Engine"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="Unity Engine"/>
       </a>
     </div>
   </td>
