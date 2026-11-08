@@ -103,8 +103,8 @@ DevOps 实践（容器化、CI/CD、监控告警）与 AI 应用开发，还在�
 
 ## 📫 如何联系我？
 
-- 邮箱：**<xichen888.private@gmail.com>**
+- 邮箱：xichen888.private@gmail.com
 
-- 个人网站：\*\*<https://xichen8.icu**（新域名备案办理中，暂时还打不开）>
+- 个人网站：<https://xichen8.icu>（新域名备案办理中，暂时还打不开）
 
 欢迎反馈建议或者与我闲聊！
